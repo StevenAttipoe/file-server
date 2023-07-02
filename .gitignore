@@ -34,3 +34,4 @@ build/
 
 src/main/resources/file-server-firebase-credentials.json
 src/main/resources/application.properties
+src/main/java/com/amalitech/fileserver/Services/Impl/FirebaseServiceImpl.java

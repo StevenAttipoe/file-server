@@ -5,7 +5,7 @@ import lombok.Value;
 
 @Builder
 @Value
-public class RequestFileDto {
-    String title;
-    String description;
+public class MailDto {
+    String recipientAddress;
+    String fileName;
 }
